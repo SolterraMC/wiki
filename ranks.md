@@ -2,26 +2,27 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-14T18:21:42.782Z
+date: 2025-09-15T16:20:53.849Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
 ---
 
 # Ranks
-You can purchase ranks with in-game money with `/ranks` or by visting the vendor in spawn
+Ranks give you addittional quality of life improvements on the server. You can purchase ranks with in-game money with `/ranks` or by visting the vendor in spawn.
 
 
 
-Solaris
----
+
+## Solaris
 
 
 
-Firefly
----
+## Pixie
 
 
-Seedling
----
+## Seedling
+
+
+## Acorn
 No additional perks
