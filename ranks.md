@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-15T16:52:24.469Z
+date: 2025-09-15T17:01:47.888Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -16,10 +16,16 @@ Ranks give you addittional quality of life improvements on the server. You can p
 
 ## Phoenix
 
+## Griffin
+
+## Dragon
+
 
 ## Unicorn
 
 ## Fox
+
+## Owl
 
 ## Pixie
 
