@@ -2,7 +2,7 @@
 title: Solterra
 description: 
 published: true
-date: 2025-09-16T02:41:52.029Z
+date: 2025-09-16T03:46:55.474Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-06T18:50:23.703Z
@@ -22,3 +22,4 @@ We're always looking for ways to improve our wiki. Share your suggestions in our
 ## Quick Links
 
 
+### [Rules](/rules)
