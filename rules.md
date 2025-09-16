@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-09-16T03:35:30.057Z
+date: 2025-09-16T03:35:47.116Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
@@ -24,7 +24,7 @@ dateCreated: 2025-09-16T02:51:06.146Z
 - Don't kill pets or livestock
 - "It wasn't claimed" is not an excuse
 - Fix any accidental damage immediately
-- PvP is allowed in wilderness only and towns that allow it
+- PvP is allowed only in wilderness and towns that allow it
 
 ## [3] Cozy Chat Only
 **Keep chat positive and safe—no spam, hate, or toxicity.**
