@@ -2,14 +2,14 @@
 title: Towny
 description: 
 published: true
-date: 2025-09-16T03:44:39.051Z
+date: 2025-09-16T03:49:20.828Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-06T18:56:55.342Z
 ---
 
 # Towny
-![towny-solterra.jpg](/towny-solterra.jpg)
+![Towny Town](/towny-solterra.jpg)
 
 [Towny](https://townyadvanced.github.io/) is a land management and protection plugin that lets players create and manage towns. Think of it as adding a civilization-building layer on top of regular Minecraft survival. Players can claim chunks of land (16x16 blocks) as protected town territory where only town members can build and interact with blocks.
 
