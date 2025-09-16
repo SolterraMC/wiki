@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-09-16T03:30:58.301Z
+date: 2025-09-16T03:35:30.057Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
@@ -24,6 +24,7 @@ dateCreated: 2025-09-16T02:51:06.146Z
 - Don't kill pets or livestock
 - "It wasn't claimed" is not an excuse
 - Fix any accidental damage immediately
+- PvP is allowed in wilderness only and towns that allow it
 
 ## [3] Cozy Chat Only
 **Keep chat positive and safe—no spam, hate, or toxicity.**
@@ -41,13 +42,15 @@ dateCreated: 2025-09-16T02:51:06.146Z
 - Report bugs, don't abuse them
 - When in doubt, ask staff
 
-## [5] Community Spirit
+## [5] Respect the World
 **Build and play in a way that adds to the cozy vibe.**
-- Make builds look nice (even farms!)
-- Don't create eyesores
-- Help with community events
-- Support other players' shops
-- Keep spawn areas clean
+Build responsibly and consider your impact on others.
+
+- Don't build lag machines or anything that harms server performance
+- Don't block public paths or access routes
+- Keep builds appropriate (no offensive symbols/imagery)
+- Don't claim land just to prevent others from expanding
+- Clean up temporary structures like pillars and bridges
 
 ## Consequences
 - **First offense**: Warning
