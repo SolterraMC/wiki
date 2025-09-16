@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-09-16T03:36:21.715Z
+date: 2025-09-16T03:37:19.614Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
@@ -26,7 +26,7 @@ dateCreated: 2025-09-16T02:51:06.146Z
 - **PvP is allowed only in wilderness and towns that allow it**
 
 ## [3] Cozy Chat Only
-**Keep chat positive and safe—no spam, hate, or toxicity.**
+**Keep chat positive and safe — no spam, hate, or toxicity.**
 - No hate speech or discrimination
 - Minimal swearing
 - No spam or advertising
