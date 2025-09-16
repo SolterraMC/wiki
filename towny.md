@@ -2,139 +2,81 @@
 title: Towny
 description: 
 published: true
-date: 2025-09-14T18:21:40.705Z
+date: 2025-09-16T03:25:09.798Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-06T18:56:55.342Z
 ---
 
-## What Towny Does
+# Towny
 
 [Towny](https://townyadvanced.github.io/) is a land management and protection plugin that lets players create and manage towns. Think of it as adding a civilization-building layer on top of regular Minecraft survival. Players can claim chunks of land (16x16 blocks) as protected town territory where only town members can build and interact with blocks.
 
-## Basic Flow for Players
 
-Players start as nomads with no town. They can either:
-- Create their own town (costs money from Jobs/McMMO earnings)
-- Join an existing town when invited by a mayor or assistant
+## Getting Started
+When you join the server, you'll start as a nomad without a town. You have two options:
+- Join an existing town (if invited or if the town is open)
+- Create your own town for **$1,000**
 
-Once in a town, they get a personal plot within the town's claimed chunks where they can build safely. Their stuff is protected from griefing, theft, and mob damage (depending on your config).
+## Essential Player Commands
 
-## The Claim System That Encourages Cooperation
+### Town Basics
+- `/t spawn` - Teleport to your town's spawn point
+- `/t` - View your town's info
+- `/t list` - See all towns on the server
+- `/t online` - See who's online in your town
+- `/t leave` - Leave your current town
+- `/t deposit [amount]` - Add money to town bank
 
-Here's where Towny gets clever: Each town has a maximum number of chunks it can claim, determined by the number of residents. For example, with default settings:
-- 1 resident = 16 chunks available
-- 2 residents = 32 chunks available  
-- 3 residents = 48 chunks available
+### Claiming & Plots
+- `/plot claim` - Claim a plot you're standing on (if for sale)
+- `/plot forsale/fs [price]` - Put your plot up for sale
+- `/plot notforsale/nfs` - Remove plot from sale
+- `/plot perm` - View plot permissions
 
-This creates natural pressure for players to band together rather than everyone making solo towns. A single player trying to go alone gets very limited space, while groups can claim significant territory. You can adjust these ratios in the config to match your server's vision.
+### Social
+- `/res friend add [player]` - Add a friend (they can build on your plots)
+- `/res friend remove [player]` - Remove a friend
+- `/n` - View your nation's info (if in one)
 
-## Econ Balance
+## Mayor Commands
 
-Towns require daily upkeep (paid from the town bank) based on their size. This creates a constant money sink that keeps your Jobs/McMMO economy relevant. If a town can't pay upkeep, it falls into ruins and eventually deletes, returning the land to wilderness.
+### Town Management
+- `/t new [name]` - Create a new town ($1,000)
+- `/t claim` - Claim the chunk you're standing in ($50 per chunk)
+- `/t unclaim` - Unclaim a chunk
+- `/t invite [player]` - Invite a player to your town
+- `/t kick [player]` - Remove a resident
 
-## How It Plays With WorldGuard
+### Financial Management
+- `/t set taxes [amount]` - Set daily tax (0-1000, can be percentage if enabled)
+- `/t set plottax [amount]` - Set tax per plot owned
+- `/t withdraw [amount]` - Take money from town bank
+- `/t bankhistory` - View transaction history
+- **Daily Upkeep**: Your town pays $100/day automatically. If it can't pay, the town goes into debt (bankruptcy enabled)
 
-Towny and WorldGuard work on different layers:
-- WorldGuard protects your server areas (spawn, shops, arenas) with absolute priority
-- Towny handles player-claimed areas everywhere else
-- If there's overlap, WorldGuard takes precedence
+### Plot Management
+- `/plot forsale [price]` - Sell a town plot to residents
+- `/plot notforsale` - Stop selling a plot
+- `/plot set [type]` - Change plot type (shop, arena, bank, jail, etc.)
+- `/plot perm [type] [resident/ally/outsider] [on/off]` - Set plot permissions
 
-So you'd use WorldGuard regions for spawn and server builds, while Towny handles the player civilization areas in the wider world.
+### Town Settings
+- `/t set spawn` - Set town spawn location
+- `/t set homeblock` - Set new homeblock (town center)
+- `/t set name [name]` - Rename town
+- `/t set board [message]` - Set town message board
+- `/t toggle pvp` - Toggle PVP in town (30s cooldown)
+- `/t toggle public` - Allow/deny public spawning to your town
 
+### Permissions & Ranks
+- `/t rank add [player] assistant` - Make someone an assistant mayor
+- `/t set perm [type] [on/off]` - Set default town permissions
+- `/t trust add [town]` - Trust another town
 
-
-## Towny Commands
-
-### For Players - Basic Town Commands
-
-**Getting Started:**
-- `/towny` - Shows your status and basic info
-- `/towny ? or /towny help` - Shows help menu
-- `/towny map` - Shows ASCII map of nearby claimed chunks
-- `/towny time` - Shows time until next day (when upkeep is collected)
-- `/towny top residents/land/balance` - Shows leaderboards
-
-**Creating/Joining Towns:**
-- `/town new [name]` - Creates a new town (costs money)
-- `/town join [townname]` - Join a town (need invitation)
-- `/town leave` - Leave your current town
-- `/town list` - Lists all towns on server
-- `/town` or `/town here` - Shows info about town you're standing in
-
-**Town Management (Mayor/Assistants):**
-- `/town add [playername]` - Invite player to town
-- `/town kick [playername]` - Remove resident from town
-- `/town claim` - Claim the chunk you're standing in
-- `/town unclaim` - Unclaim the chunk you're standing in
-- `/town claim outpost` - Claim land away from main town (costs extra)
-- `/town deposit [amount]` - Add money to town bank
-- `/town withdraw [amount]` - Take money from town bank (mayor only)
-- `/town rank add [playername] [rank]` - Give assistant/other ranks
-
-**Plot Management:**
-- `/plot claim` - Claim a plot within town (if for sale)
-- `/plot unclaim` - Abandon your plot
-- `/plot forsale [price]` - Put plot up for sale
-- `/plot notforsale` - Remove plot from market
-- `/plot set perm [resident/ally/outsider] [build/destroy/switch/itemuse] [on/off]` - Set plot permissions
-- `/plot set [shop/arena/embassy/wilds]` - Set plot type
-
-**Town Settings (Mayor):**
-- `/town set name [newname]` - Rename town
-- `/town set mayor [playername]` - Transfer mayorship
-- `/town set spawn` - Set town spawn point at your location
-- `/town spawn` - Teleport to town spawn
-- `/town toggle pvp` - Toggle PvP in town
-- `/town toggle public` - Toggle if town is open to join without invite
-- `/town toggle explosion` - Toggle explosion protection
-- `/town toggle mobs` - Toggle hostile mob spawning
-- `/town toggle fire` - Toggle fire spread
-
-### For Admins - Management Commands
-
-**Admin Overrides:**
-- `/townyadmin` or `/ta` - Shows admin help menu
-- `/townyadmin set mayor [town] [player]` - Force mayor change
-- `/townyadmin town [townname] deposit [amount]` - Add money to any town
-- `/townyadmin town [townname] add [player]` - Force add player to town
-- `/townyadmin town [townname] delete` - Delete a town
-- `/townyadmin unclaim [radius]` - Force unclaim area around you
-
-**Maintenance:**
-- `/townyadmin backup` - Force backup of Towny data
-- `/townyadmin newday` - Force new day (collects upkeep)
-- `/townyadmin purge [days]` - Remove players inactive for X days
-- `/townyadmin reload` - Reload Towny config files
-- `/townyadmin reset` - Full Towny database reset (WARNING: deletes everything!)
-
-**Toggle Commands:**
-- `/townyadmin toggle debug` - Toggle debug mode
-- `/townyadmin toggle devmode` - Toggle development mode (disables upkeep)
-- `/townyadmin toggle npc [playername]` - Exempt player from inactivity purge
-- `/townyadmin toggle upkeep` - Toggle upkeep collection globally
-
-### Nation Commands (If Enabled)
-
-- `/nation new [name]` - Create nation (mayors only, costs money)
-- `/nation join [nation]` - Join nation as a town (mayor only)
-- `/nation leave` - Leave nation
-- `/nation deposit [amount]` - Add to nation bank
-- `/nation ally add [nation]` - Propose alliance
-- `/nation enemy add [nation]` - Declare enemy
-- `/nation spawn` - Teleport to nation spawn
-
-### Chat Commands
-
-- `/tc [message]` - Town chat (or toggle with just /tc)
-- `/nc [message]` - Nation chat (or toggle with just /nc)
-- `/gc [message]` - Global chat
-- `/lc [message]` - Local chat
-
-### Shortcuts
-
-- `/t` - Shortcut for /town
-- `/n` - Shortcut for /nation
-- `/p` or `/plot` - Plot commands
-- `/ta` - Shortcut for /townyadmin
-- `/res` - Shortcut for /resident
+## Important Notes
+- Towns can claim up to 8 blocks per resident + bonus blocks from nation
+- Bankruptcy system prevents deletion if you can't pay upkeep (debt cap: 7 days)
+- Peaceful/neutral status costs extra daily ($25 for towns)
+- You keep items on death in town areas
+- Wilderness building/destroying is restricted by default
