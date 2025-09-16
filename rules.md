@@ -2,83 +2,59 @@
 title: Rules
 description: 
 published: true
-date: 2025-09-16T03:28:09.994Z
+date: 2025-09-16T03:30:58.301Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
 ---
 
-# Rules
+# Server Rules
 
 ## [1] Kindness First
 **Be friendly, respectful, and welcoming to all players.**
-
-This is our golden rule. Every player deserves to feel welcome and valued in our community. This means:
-- Greet new players and offer help when they're learning
-- Use respectful language even during disagreements
-- Give others the benefit of the doubt - assume positive intent
-- Be patient with players who may be younger or less experienced
-- Celebrate others' achievements and builds
-- If someone makes a mistake, help them learn rather than criticize
-- Remember there's a real person behind every character
+- Help new players learn the ropes
+- Keep disagreements civil
+- Be patient with others
+- No bullying or harassment
 
 ## [2] No Griefing or Stealing
 **Don't harm others' builds, belongings, or progress.**
-
-Respect is shown through actions. Even in wilderness areas:
-- Never break or modify another player's builds without explicit permission
-- Don't take items from unlocked chests that aren't yours
-- Don't kill other players' animals or destroy their farms
-- Don't claim land right next to someone's town to block expansion
-- Don't intentionally ruin the landscape around others' builds
-- If you accidentally damage something, fix it or notify the owner
-- "It wasn't protected" is not an excuse - respect others' work regardless
+- Never break or alter builds without permission
+- Don't take from others' chests (even unlocked ones)
+- Don't kill pets or livestock
+- "It wasn't claimed" is not an excuse
+- Fix any accidental damage immediately
 
 ## [3] Cozy Chat Only
 **Keep chat positive and safe—no spam, hate, or toxicity.**
-
-Our chat should be a comfortable space for everyone:
-- No hate speech, discrimination, or personal attacks of any kind
-- Keep profanity to an absolute minimum
-- Don't spam messages, letters, or symbols
-- Avoid controversial topics that create division (politics, etc.)
-- Don't share inappropriate content or links
-- Keep criticism constructive and kind
-- Don't advertise other servers or products
-- Use English in global chat so moderators can help maintain safety
+- No hate speech or discrimination
+- Minimal swearing
+- No spam or advertising
+- Avoid divisive topics (politics, etc.)
+- English in global chat
 
 ## [4] Fair Play
 **No cheats, exploits, or hacks of any kind.**
-
-Everyone should have the same opportunities to enjoy the game:
-- No hacked clients, x-ray texture packs, or unauthorized mods
-- Don't exploit bugs or glitches - report them instead
-- No auto-clickers, macros, or automation tools
-- Don't use alt accounts to circumvent limitations
-- No duplication glitches or economy manipulation
-- Play the game as intended - shortcuts ruin the experience for everyone
-- If you're unsure if something is allowed, ask staff first
+- No hacked clients or x-ray
+- No duping or bug exploitation
+- No macros or auto-clickers
+- Report bugs, don't abuse them
+- When in doubt, ask staff
 
 ## [5] Community Spirit
 **Build and play in a way that adds to the cozy vibe.**
+- Make builds look nice (even farms!)
+- Don't create eyesores
+- Help with community events
+- Support other players' shops
+- Keep spawn areas clean
 
-Help create the warm, welcoming atmosphere we all enjoy:
-- Build with aesthetics in mind - even farms can be pretty!
-- Help with community projects and events when you can
-- Share resources with newer players when possible
-- Keep the areas around spawn and towns looking nice
-- Don't create eyesores or intentionally ugly builds
-- Participate in server events and celebrations
-- Support other players' shops and businesses
-- Leave areas better than you found them
-- Remember: your actions affect everyone's experience
+## Consequences
+- **First offense**: Warning
+- **Repeated issues**: Temp ban (1-7 days)
+- **Serious violations**: Permanent ban
 
-## Additional Guidelines
+## Remember
+These rules keep our server fun for everyone. If you see rule-breaking, report it to staff. We're all here to relax and enjoy Minecraft together!
 
-**Reporting Issues**: If you see rule-breaking, don't engage - report it to staff privately. We're here to help maintain the cozy atmosphere.
-
-**Consequences**: Rule violations may result in warnings, temporary mutes/bans, or permanent removal depending on severity. We believe in second chances for honest mistakes, but intentional harm to the community won't be tolerated.
-
-**The Spirit of the Rules**: These rules exist to protect our community's special atmosphere. When in doubt, ask yourself: "Does this action make the server more enjoyable for everyone?" If the answer is no, please reconsider.
-
-Remember: We're all here to relax, have fun, and be part of something special. Your kindness and consideration make this server the cozy haven it is!
+**Golden Rule**: If it would ruin someone else's day, don't do it.
