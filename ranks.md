@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:27:11.760Z
+date: 2025-09-20T20:27:16.216Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -37,7 +37,6 @@ No additional perks
 - Can create towns (Coming soon)
 - `/ptime` - Personal time
 - 10% Jobs money
-
 ## Fox
 - `/nick` - Ability to set a nickname
 - 20 chest shops
