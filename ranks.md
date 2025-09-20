@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T21:57:07.358Z
+date: 2025-09-20T22:04:28.996Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -24,20 +24,19 @@ No additional perks
 ## Firefly
 - `/back` - Ability to return to your death location
 - `/rtp` cooldown reduced to 1 minute
-- 5 chest shops
+- 8 chest shops
 ## Pixie
 - 3 homes
-- 8 chest shops
+- 12 chest shops
 - `/craft` - Portable crafting table
 - `/hat` - Anything can be a hat
 ## Owl
-- 12 chest shops
+- 20 chest shops
 - `/skulls` - Access to decorative skulls 
 - `/ptime` - Personal time
 - 10% Jobs money
 ## Fox
 - `/nick` - Ability to set a nickname
-- 20 chest shops
 - `/kit fox` (Coming Soon)
 - 5 homes
 - Colored chat
