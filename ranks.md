@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:25:32.178Z
+date: 2025-09-20T20:26:23.620Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -54,7 +54,7 @@ No additional perks
 - `/repair` - Repair an item for a fee
 ## Griffin
 - Can create 1 public warp
+- `/feed` - Feed yourself
 ## Phoenix
 - `/ec` - Portable ender chest
 - Keep inventory on death (loses 10% money instead)
-- `fly` - Flight in the wilderness (Not Claims)
