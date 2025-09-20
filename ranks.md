@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:27:16.216Z
+date: 2025-09-20T20:28:45.954Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -54,6 +54,7 @@ No additional perks
 ## Griffin
 - Can create 1 public warp
 - `/feed` - Feed yourself
+- 10 homes
 ## Phoenix
 - `/ec` - Portable ender chest
 - Keep inventory on death (loses 10% money instead)
