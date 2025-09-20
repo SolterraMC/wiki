@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T19:57:37.490Z
+date: 2025-09-20T19:58:24.704Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -24,6 +24,9 @@ No additional perks
 - `/back` - Ability to return to your death location
 - 5 chest shops
 ## Pixie
+- 3 homes
+- 10 chest shops
+- `/workbench` - Portable crafting table
 ## Owl
 ## Fox
 ## Unicorn
