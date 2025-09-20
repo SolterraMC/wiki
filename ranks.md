@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T19:57:24.080Z
+date: 2025-09-20T19:57:37.490Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -22,6 +22,7 @@ No additional perks
 
 ## Firefly
 - `/back` - Ability to return to your death location
+- 5 chest shops
 ## Pixie
 ## Owl
 ## Fox
