@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:59:08.308Z
+date: 2025-09-20T21:12:17.870Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -42,7 +42,7 @@ No additional perks
 - 5 homes
 - Colored chat
 ## Unicorn
-- 50 chest shops
+- 40 chest shops
 - 3 jobs
 - `/pweather` - Personal weather
 ## Dragon
