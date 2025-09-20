@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:36:24.808Z
+date: 2025-09-20T20:36:40.785Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -52,7 +52,7 @@ No additional perks
 - `/repair` - Repair an item for a fee
 ## Griffin
 - Can create 1 public warp
-- `/feed` - Feed yourself
+- `/feed` - Feed yourself (60 minute cooldown)
 - 10 homes
 ## Phoenix
 - `/ec` - Portable ender chest
