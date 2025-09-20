@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:26:23.620Z
+date: 2025-09-20T20:27:11.760Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -58,3 +58,4 @@ No additional perks
 ## Phoenix
 - `/ec` - Portable ender chest
 - Keep inventory on death (loses 10% money instead)
+- `fly` - Flight in the wilderness (Not Claims)
