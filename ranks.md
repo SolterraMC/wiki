@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:28:45.954Z
+date: 2025-09-20T20:29:23.369Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -21,7 +21,6 @@ No additional perks
 - 2 homes
 - `/trash` - Access to the trash can
 - Can join towns
-- 5% Jobs XP
 ## Firefly
 - `/back` - Ability to return to your death location
 - `/rtp` cooldown reduced to 10 minutes
