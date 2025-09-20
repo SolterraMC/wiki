@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:08:18.580Z
+date: 2025-09-20T20:09:35.364Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -37,7 +37,6 @@ No additional perks
 - 20 chest shops
 - `/kit fox` (Coming Soon)
 - 5 homes
-- 
 ## Unicorn
 - 50 chest shops
 ## Dragon
