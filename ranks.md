@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T19:59:47.767Z
+date: 2025-09-20T20:04:12.698Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -26,9 +26,13 @@ No additional perks
 ## Pixie
 - 3 homes
 - 8 chest shops
-- `/workbench` - Portable crafting table
+- `/craft` - Portable crafting table
 ## Owl
+- 12 chest shops
+- Can create towns 
+- `/ptime` - Personal time
 ## Fox
+- `/nick` - Ability to set a nickname
 ## Unicorn
 ## Dragon
 ## Griffin
