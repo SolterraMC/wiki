@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:09:35.364Z
+date: 2025-09-20T20:12:38.594Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -30,6 +30,7 @@ No additional perks
 - `/craft` - Portable crafting table
 ## Owl
 - 12 chest shops
+- `/skulls` - Access to decorative skulls 
 - Can create towns (Coming soon)
 - `/ptime` - Personal time
 ## Fox
