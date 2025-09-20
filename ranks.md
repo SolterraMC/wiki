@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T22:05:20.502Z
+date: 2025-09-20T22:05:46.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -49,7 +49,7 @@ No additional perks
 - Access to 4 jobs
 - `/repair` - Repair an item for a fee
 ## Griffin
-- 80 chest shops
+- Unlimited chest shops
 - Can create 1 public warp
 - `/feed` - Feed yourself (60 minute cooldown)
 - 10 homes
