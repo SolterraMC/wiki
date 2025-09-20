@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T22:04:38.803Z
+date: 2025-09-20T22:05:12.786Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -45,7 +45,7 @@ No additional perks
 - 3 jobs
 - `/pweather` - Personal weather
 ## Dragon
-- 75 chest shops
+- 60 chest shops
 - Access to 4 jobs
 - `/repair` - Repair an item for a fee
 ## Griffin
