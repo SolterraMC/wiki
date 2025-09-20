@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:36:45.793Z
+date: 2025-09-20T20:59:08.308Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -23,7 +23,7 @@ No additional perks
 - Can join towns
 ## Firefly
 - `/back` - Ability to return to your death location
-- `/rtp` cooldown reduced to 10 minutes
+- `/rtp` cooldown reduced to 1 minute
 - 5 chest shops
 ## Pixie
 - 3 homes
@@ -33,7 +33,6 @@ No additional perks
 ## Owl
 - 12 chest shops
 - `/skulls` - Access to decorative skulls 
-- Can create towns (Coming soon)
 - `/ptime` - Personal time
 - 10% Jobs money
 ## Fox
