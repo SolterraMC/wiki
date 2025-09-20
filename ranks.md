@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T20:29:23.369Z
+date: 2025-09-20T20:36:24.808Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -57,4 +57,4 @@ No additional perks
 ## Phoenix
 - `/ec` - Portable ender chest
 - Keep inventory on death (loses 10% money instead)
-- `fly` - Flight in the wilderness (Not Claims)
+- `/heal` - Heal yourself (45 minute cooldown)
