@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-20T22:05:54.565Z
+date: 2025-09-24T04:13:14.826Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -55,5 +55,4 @@ No additional perks
 - 10 homes
 ## Phoenix
 - `/ec` - Portable ender chest
-- Keep inventory on death (loses 10% money instead)
 - `/heal` - Heal yourself (60 minute cooldown)
