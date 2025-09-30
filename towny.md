@@ -2,7 +2,7 @@
 title: Towny
 description: 
 published: true
-date: 2025-09-16T03:49:20.828Z
+date: 2025-09-30T04:01:37.781Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-06T18:56:55.342Z
@@ -15,11 +15,17 @@ dateCreated: 2025-09-06T18:56:55.342Z
 
 
 ## Getting Started
+
 When you join the server, you'll start as a nomad without a town. You have two options:
 - Join an existing town (if invited or if the town is open)
-- Create your own town for **$1,000**
+- Create your own town for **$1,000**  `/town new [name]`
+
 
 ## Essential Player Commands
+
+Don't like commands? Try this for a easy to use GUI: 
+
+`/tmenu`
 
 ### Town Basics
 - `/t spawn` - Teleport to your town's spawn point
@@ -41,6 +47,7 @@ When you join the server, you'll start as a nomad without a town. You have two o
 - `/n` - View your nation's info (if in one)
 
 ## Mayor Commands
+Mayor commands only work when you created a town or someone gave you their town
 
 ### Town Management
 - `/t new [name]` - Create a new town ($1,000)
