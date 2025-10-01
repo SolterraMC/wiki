@@ -2,7 +2,7 @@
 title: Towny
 description: 
 published: true
-date: 2025-10-01T03:26:02.847Z
+date: 2025-10-01T03:26:09.902Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-06T18:56:55.342Z
@@ -58,7 +58,7 @@ Mayor commands only work when you created a town or someone gave you their town
 
 ### Financial Management
 
-- `/t set taxes [amount]` - Set daily tax (0-100, percent by default)
+- `/t set taxes [amount]` - Set daily tax (0-100%, percent by default)
 	- Taxes are percent by default. If you would like to set it to a flat rate `/town toggle taxpercent off`
 - `/t set plottax [amount]` - Set tax per plot owned
 - `/t withdraw [amount]` - Take money from town bank
