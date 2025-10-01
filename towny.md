@@ -2,7 +2,7 @@
 title: Towny
 description: 
 published: true
-date: 2025-09-30T04:01:37.781Z
+date: 2025-10-01T03:21:11.488Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-06T18:56:55.342Z
@@ -57,11 +57,19 @@ Mayor commands only work when you created a town or someone gave you their town
 - `/t kick [player]` - Remove a resident
 
 ### Financial Management
-- `/t set taxes [amount]` - Set daily tax (0-1000, can be percentage if enabled)
+
+- `/t set taxes [amount]` - Set daily tax (0-100, percent by default)
+	- Taxes are percent by default. If you would like to set it to a flat rate `/town toggle taxpercent off`
 - `/t set plottax [amount]` - Set tax per plot owned
 - `/t withdraw [amount]` - Take money from town bank
 - `/t bankhistory` - View transaction history
 - **Daily Upkeep**: Your town pays $100/day automatically. If it can't pay, the town goes into debt (bankruptcy enabled)
+
+Taxes come in 2 forms, percents and flat taxes.
+
+To set the taxes to a flat rate
+
+
 
 ### Plot Management
 - `/plot forsale [price]` - Sell a town plot to residents
