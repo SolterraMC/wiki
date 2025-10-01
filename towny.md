@@ -2,7 +2,7 @@
 title: Towny
 description: 
 published: true
-date: 2025-10-01T03:26:09.902Z
+date: 2025-10-01T22:29:17.741Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-06T18:56:55.342Z
@@ -28,6 +28,7 @@ Don't like commands? Try this for a easy to use GUI:
 `/tmenu`
 
 ### Town Basics
+
 - `/t spawn` - Teleport to your town's spawn point
 - `/t` - View your town's info
 - `/t list` - See all towns on the server
@@ -36,12 +37,14 @@ Don't like commands? Try this for a easy to use GUI:
 - `/t deposit [amount]` - Add money to town bank
 
 ### Claiming & Plots
+
 - `/plot claim` - Claim a plot you're standing on (if for sale)
 - `/plot forsale/fs [price]` - Put your plot up for sale
 - `/plot notforsale/nfs` - Remove plot from sale
 - `/plot perm` - View plot permissions
 
 ### Social
+
 - `/res friend add [player]` - Add a friend (they can build on your plots)
 - `/res friend remove [player]` - Remove a friend
 - `/n` - View your nation's info (if in one)
@@ -70,12 +73,14 @@ Mayor commands only work when you created a town or someone gave you their town
 
 
 ### Plot Management
+
 - `/plot forsale [price]` - Sell a town plot to residents
 - `/plot notforsale` - Stop selling a plot
 - `/plot set [type]` - Change plot type (shop, arena, bank, jail, etc.)
 - `/plot perm [type] [resident/ally/outsider] [on/off]` - Set plot permissions
 
 ### Town Settings
+
 - `/t set spawn` - Set town spawn location
 - `/t set homeblock` - Set new homeblock (town center)
 - `/t set name [name]` - Rename town
@@ -84,11 +89,13 @@ Mayor commands only work when you created a town or someone gave you their town
 - `/t toggle public` - Allow/deny public spawning to your town
 
 ### Permissions & Ranks
+
 - `/t rank add [player] assistant` - Make someone an assistant mayor
 - `/t set perm [type] [on/off]` - Set default town permissions
 - `/t trust add [town]` - Trust another town
 
 ## Important Notes
+
 - Towns can claim up to 8 blocks per resident + bonus blocks from nation
 - Bankruptcy system prevents deletion if you can't pay upkeep (debt cap: 7 days)
 - Peaceful/neutral status costs extra daily ($25 for towns)
