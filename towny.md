@@ -2,7 +2,7 @@
 title: Towny
 description: 
 published: true
-date: 2025-10-01T03:21:11.488Z
+date: 2025-10-01T03:26:02.847Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-06T18:56:55.342Z
@@ -65,9 +65,7 @@ Mayor commands only work when you created a town or someone gave you their town
 - `/t bankhistory` - View transaction history
 - **Daily Upkeep**: Your town pays $100/day automatically. If it can't pay, the town goes into debt (bankruptcy enabled)
 
-Taxes come in 2 forms, percents and flat taxes.
 
-To set the taxes to a flat rate
 
 
 
