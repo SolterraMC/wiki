@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-09-16T03:47:53.942Z
+date: 2025-10-06T23:57:20.503Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
@@ -22,6 +22,7 @@ dateCreated: 2025-09-16T02:51:06.146Z
 - Never break or alter builds without permission
 - Don't take from others' chests (even unlocked ones)
 - Don't kill pets or livestock
+- Do not steal villagers from other towns
 - Fix any accidental damage immediately
 - **PvP is allowed only in wilderness and towns that allow it**
 
