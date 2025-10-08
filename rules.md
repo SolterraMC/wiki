@@ -2,13 +2,13 @@
 title: Rules
 description: 
 published: true
-date: 2025-10-08T04:28:29.449Z
+date: 2025-10-08T04:28:47.097Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
 ---
 
-# Server Rules
+
 
 
 ## [1] Kindness First
