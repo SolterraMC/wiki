@@ -2,13 +2,14 @@
 title: Rules
 description: 
 published: true
-date: 2025-10-06T23:57:20.503Z
+date: 2025-10-08T04:28:29.449Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
 ---
 
 # Server Rules
+
 
 ## [1] Kindness First
 **Be friendly, respectful, and welcoming to all players.**
