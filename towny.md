@@ -2,7 +2,7 @@
 title: Towny
 description: 
 published: true
-date: 2025-10-12T03:53:45.858Z
+date: 2025-10-12T04:01:59.571Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-06T18:56:55.342Z
@@ -17,6 +17,7 @@ dateCreated: 2025-09-06T18:56:55.342Z
 
 When you join the server, you'll start as a nomad without a town. You have two options:
 - Join an existing town (if invited or if the town is open)
+	- You can browse available plots for sale with `/town catalog`
 - Create your own town for **$1,000**  `/town new [name]`
 
 
