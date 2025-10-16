@@ -2,7 +2,7 @@
 title: Towny
 description: 
 published: true
-date: 2025-10-16T02:14:04.934Z
+date: 2025-10-16T02:14:46.223Z
 tags: towny
 editor: markdown
 dateCreated: 2025-10-15T16:32:19.926Z
@@ -44,9 +44,14 @@ Towns automatically advance through levels based on resident count:
 | 7 | 24+ | Large City | 384 | 3 | 200 |
 | 8 | 28+ | Metropolis | 448 | 4 | 300 |
 
+---
+
 ## /town Commands
 
+
 ### Information & Navigation
+
+
 | Command | Description |
 |---------|-------------|
 | `/town` or `/t` | View your town's information |
