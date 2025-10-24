@@ -2,13 +2,11 @@
 title: Towny
 description: 
 published: true
-date: 2025-10-16T02:14:46.223Z
+date: 2025-10-24T17:15:10.637Z
 tags: towny
 editor: markdown
 dateCreated: 2025-10-15T16:32:19.926Z
 ---
-
-# Towny Commands
 
 ![Towny Town](/towny-solterra.jpg)
 
