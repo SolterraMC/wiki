@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-10-08T04:28:47.097Z
+date: 2025-11-02T17:44:02.387Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
@@ -26,6 +26,9 @@ dateCreated: 2025-09-16T02:51:06.146Z
 - Do not steal villagers from other towns
 - Fix any accidental damage immediately
 - **PvP is allowed only in wilderness and towns that allow it**
+- No teleport trapping / killing
+	- This includes player warps	
+
 
 ## [3] Cozy Chat Only
 **Keep chat positive and safe — no spam, hate, or toxicity.**
