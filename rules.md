@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-11-02T17:44:02.387Z
+date: 2025-11-02T17:45:49.129Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
@@ -27,7 +27,7 @@ dateCreated: 2025-09-16T02:51:06.146Z
 - Fix any accidental damage immediately
 - **PvP is allowed only in wilderness and towns that allow it**
 - No teleport trapping / killing
-	- This includes player warps	
+	- This includes player warps and TPA 
 
 
 ## [3] Cozy Chat Only
