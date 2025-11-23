@@ -2,7 +2,7 @@
 title: Towny
 description: 
 published: true
-date: 2025-11-23T00:24:05.420Z
+date: 2025-11-23T00:30:11.275Z
 tags: towny
 editor: markdown
 dateCreated: 2025-10-15T16:32:19.926Z
@@ -37,10 +37,10 @@ Towns automatically advance through levels based on resident count:
 | 2 | 2+ | Hamlet | 80 | 1 | 0 |
 | 3 | 6+ | Village | 125 | 1 | 0 |
 | 4 | 10+ | Town | 250 | 2 | 0 |
-| 5 | 14+ | Large Town | 224 | 2 | 100 |
-| 6 | 20+ | City | 320 | 3 | 150 |
-| 7 | 24+ | Large City | 384 | 3 | 200 |
-| 8 | 28+ | Metropolis | 448 | 4 | 300 |
+| 5 | 14+ | Large Town | 325 | 2 | 100 |
+| 6 | 20+ | City | 475 | 3 | 150 |
+| 7 | 24+ | Large City | 550 | 3 | 200 |
+| 8 | 28+ | Metropolis | 700 | 4 | 300 |
 
 ---
 
