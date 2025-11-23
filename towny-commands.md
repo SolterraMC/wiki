@@ -2,7 +2,7 @@
 title: Towny
 description: 
 published: true
-date: 2025-10-24T17:15:10.637Z
+date: 2025-11-23T00:23:11.846Z
 tags: towny
 editor: markdown
 dateCreated: 2025-10-15T16:32:19.926Z
@@ -33,9 +33,9 @@ Towns automatically advance through levels based on resident count:
 | Level | Residents | Title | Max Townblocks | Outposts | Buy Bonus Limit |
 |-------|-----------|-------|----------------|----------|-----------------|
 | 0 | 0 | Ruins | 1 | 0 | 10 |
-| 1 | 1 | Settlement | 40 | 0 | 10 |
-| 2 | 2+ | Hamlet | 32 | 1 | 50 |
-| 3 | 6+ | Village | 96 | 1 | 75 |
+| 1 | 1 | Settlement | 50 | 0 | 0 |
+| 2 | 2+ | Hamlet | 80 | 1 | 0 |
+| 3 | 6+ | Village | 125 | 1 | 0 |
 | 4 | 10+ | Town | 160 | 2 | 100 |
 | 5 | 14+ | Large Town | 224 | 2 | 100 |
 | 6 | 20+ | City | 320 | 3 | 150 |
