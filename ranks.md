@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-12-01T00:16:23.510Z
+date: 2025-12-01T00:16:33.083Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -44,10 +44,11 @@ No additional perks
 - 35 chest shops
 - Can create 1 public warp
 - 3 jobs
+- `/pweather` - Personal weather
 ## Dragon
 - 60 chest shops
 - Access to 4 jobs
-- `/repair` - Repair an item for a fee
+
 ## Griffin
 - 100 chest shops
 - `/feed` - Feed yourself (60 minute cooldown)
