@@ -2,7 +2,7 @@
 title: Ranks
 description: 
 published: true
-date: 2025-09-24T04:13:14.826Z
+date: 2025-12-01T00:16:17.058Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-13T17:34:11.282Z
@@ -42,6 +42,7 @@ No additional perks
 - Colored chat
 ## Unicorn
 - 35 chest shops
+- Can create 1 public warp
 - 3 jobs
 - `/pweather` - Personal weather
 ## Dragon
@@ -50,7 +51,6 @@ No additional perks
 - `/repair` - Repair an item for a fee
 ## Griffin
 - 100 chest shops
-- Can create 1 public warp
 - `/feed` - Feed yourself (60 minute cooldown)
 - 10 homes
 ## Phoenix
