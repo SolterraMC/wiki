@@ -2,7 +2,7 @@
 title: Player Warps
 description: 
 published: true
-date: 2025-12-07T04:37:31.785Z
+date: 2025-12-07T04:37:46.151Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T04:36:13.704Z
@@ -42,7 +42,7 @@ Players can now visit your warp with `/pw <name>`. You'll earn $5 every time som
 | `/pw list [page]` | Browse all available warps |
 | `/pw near [page]` | Find warps within 100 blocks |
 | `/pw search <query>` | Search for warps by name |
-| `/pw open` | Open the GUI menu |
+| `/pw` | Open the GUI menu |
 | `/pw rtp` | Teleport to a random warp |
 | `/pw help` | Show all available commands |
 
