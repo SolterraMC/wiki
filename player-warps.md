@@ -2,7 +2,7 @@
 title: Player Warps
 description: 
 published: true
-date: 2025-12-07T04:37:46.151Z
+date: 2025-12-07T04:37:57.357Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T04:36:13.704Z
@@ -38,11 +38,11 @@ Players can now visit your warp with `/pw <name>`. You'll earn $5 every time som
 
 | Command | Description |
 | --- | --- |
+| `/pw` | Open the GUI menu |
 | `/pw <warp>` | Teleport to a warp ($5 fee) |
 | `/pw list [page]` | Browse all available warps |
 | `/pw near [page]` | Find warps within 100 blocks |
 | `/pw search <query>` | Search for warps by name |
-| `/pw` | Open the GUI menu |
 | `/pw rtp` | Teleport to a random warp |
 | `/pw help` | Show all available commands |
 
