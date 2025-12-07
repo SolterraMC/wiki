@@ -2,7 +2,7 @@
 title: Player Warps
 description: 
 published: true
-date: 2025-12-07T04:37:57.357Z
+date: 2025-12-07T04:42:12.305Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T04:36:13.704Z
@@ -149,7 +149,7 @@ Run the same command again to remove a warp from favorites.
 * **Warp Names:** Maximum 14 characters (spaces show as underscores)
 * **Teleport Warmup:** 3 seconds (movement cancels)
 * **Teleport Cooldown:** 5 seconds between teleports
-* **World Restrictions:** Cannot set warps in the Nether
+w
 
 ### [¶](#towny-integration) Towny Integration
 
@@ -173,7 +173,6 @@ All player warps automatically appear on the web map with:
 
 1. **Setting Up Your Warp:**
    * Choose a memorable name that's easy to type
-   * Add a clear description so visitors know what to expect
    * Set an appropriate category to help players find you
    * Use a custom icon to stand out in the list
 
