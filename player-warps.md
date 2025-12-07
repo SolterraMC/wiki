@@ -2,7 +2,7 @@
 title: Player Warps
 description: 
 published: true
-date: 2025-12-07T04:36:13.704Z
+date: 2025-12-07T04:37:31.785Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-07T04:36:13.704Z
@@ -24,7 +24,7 @@ dateCreated: 2025-12-07T04:36:13.704Z
 
 Players can now visit your warp with `/pw <name>`. You'll earn $5 every time someone teleports there!
 
-**GUI Alternative:** Use `/pw open` for an interactive menu interface
+**GUI Alternative:** Use `/pw` for an interactive menu interface
 
 **Quick Reference:**
 
