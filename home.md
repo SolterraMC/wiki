@@ -23,3 +23,4 @@ We're always looking for ways to improve our wiki. Share your suggestions in our
 
 
 ### [Rules](/rules)
+### [Changelog](/changelog)
