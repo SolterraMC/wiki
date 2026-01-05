@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2025-11-02T17:45:49.129Z
+date: 2026-01-05T21:04:33.015Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
@@ -39,7 +39,8 @@ dateCreated: 2025-09-16T02:51:06.146Z
 - English in global chat
 
 ## [4] Fair Play
-**No cheats, exploits, or hacks of any kind.**
+**No cheats, exploits, or hacks of any kind.** This is considered a serious violation and can lead to a permanant ban.
+
 - No hacked clients or x-ray
 - No duping or bug exploitation
 - No macros or auto-clickers
