@@ -70,7 +70,7 @@ Choose the method that matches your launcher:
 
 ## [¶](#in-game-controls) In-Game Controls
 
-Once installed, use these default keybinds:
+Default keybinds:
 
 | Key | Action |
 | --- | --- |
@@ -81,7 +81,8 @@ Once installed, use these default keybinds:
 | `H` | Hide/show player icons |
 | `G` | Open group menu |
 
-You can change these keybinds in the voice chat settings menu (`V`).
+> These defaults may conflict with other mods (e.g., `M` is often used by map mods). You can rebind these in **Options** → **Controls** → **Key Binds** or through the voice chat settings (`V`).
+{.is-warning}
 
 ---
 
