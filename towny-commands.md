@@ -2,7 +2,7 @@
 title: Towny
 description: 
 published: true
-date: 2025-11-23T00:34:16.151Z
+date: 2026-01-13T23:59:31.850Z
 tags: towny
 editor: markdown
 dateCreated: 2025-10-15T16:32:19.926Z
@@ -27,22 +27,6 @@ dateCreated: 2025-10-15T16:32:19.926Z
 
 ---
 
-### Town Levels
-Towns automatically advance through levels based on resident count:
-
-| Level | Residents | Title | Max Townblocks | Outposts | Upkeep |
-|-------|-----------|-------|----------------|----------|-----------------|
-| 0 | 0 | Ruins | 1 | 0 | $0 |
-| 1 | 1 | Settlement | 50 | 0 | $50 |
-| 2 | 2+ | Hamlet | 80 | 1 | $100 |
-| 3 | 6+ | Village | 125 | 1 | $100 |
-| 4 | 10+ | Town | 250 | 2 | $100 |
-| 5 | 14+ | Large Town | 325 | 2 | $150 |
-| 6 | 20+ | City | 475 | 3 | $200 |
-| 7 | 24+ | Large City | 550 | 3 | $250 |
-| 8 | 28+ | Metropolis | 700 | 4 | $300 |
-
----
 
 ## /town Commands
 
