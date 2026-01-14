@@ -2,7 +2,7 @@
 title: Rules
 description: 
 published: true
-date: 2026-01-05T21:04:33.015Z
+date: 2026-01-14T00:04:37.644Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-16T02:51:06.146Z
@@ -61,6 +61,8 @@ Build responsibly and consider your impact on others.
 - **First offense**: Warning
 - **Repeated issues**: Temp ban (1-7 days)
 - **Serious violations**: Permanent ban
+
+**Using an alt account to evade a ban can and will lead to a permanant ban**
 
 ## Remember
 These rules keep our server fun for everyone. If you see rule-breaking, report it to staff. We're all here to relax and enjoy Minecraft together!
